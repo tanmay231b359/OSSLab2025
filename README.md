@@ -14,13 +14,17 @@ Email: 231B359@juetguna.in
 
 <Solution code to part F>
 
-public static void main(String args[])
-{
-	int a=5;
-	int b=6;
+public class GTN{
 
-	if(a>b)System.out.println(a);
 
-	else System.out.println(b);
+	public static void main(String args[])
+	{
+		int a=5;
+		int b=6;
+
+		if(a>b)System.out.println(a);
+
+		else System.out.println(b);
+	}
 }
 
